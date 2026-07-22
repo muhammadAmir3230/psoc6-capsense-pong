@@ -97,6 +97,10 @@ Find your COM ports in **Device Manager → Ports → KitProg3 USB-UART**.
 - UART retarget-io, serial protocols, and COM port etiquette
 - Threading a serial reader alongside a 60 FPS pygame loop
 
+## Demo Video
+
+https://github.com/user-attachments/assets/483eed03-27b5-45dd-97b6-6e981a775ae3
+
 ## 👥 Team
 
 | | |
@@ -109,3 +113,4 @@ Built on Infineon's `mtb-example-psoc6-capsense-buttons-slider` code example.
 ## 📄 License
 
 MIT — see [LICENSE](LICENSE). Game on.
+
